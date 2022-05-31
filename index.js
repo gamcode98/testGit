@@ -12,7 +12,7 @@ const update = () => {
   console.log("intentando hacer algo");
 };
 
-const kokoIs = () => {
-  console.log("modified from master");
-  console.log("same lines on broke branch");
+const deletea = () => {
+  console.log("Hellouda");
+  console.log("Tanos tenia razon");
 };
