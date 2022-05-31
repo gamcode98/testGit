@@ -7,7 +7,7 @@ const create = async () => {
   return newUser;
 };
 
-const misma = () => {
-  console.log("rompiendo algo");
-  console.log("como siempre");
+const update = () => {
+  console.log("que onda che");
+  console.log("intentando hacer algo");
 };
